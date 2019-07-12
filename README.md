@@ -11,3 +11,6 @@
 - Copy the project files from the respective Project folder into the Root Folder of the app
 - Run ``` npm install``` 
 - Thats It!
+
+![first](assets/first.png)
+![second](assets/second.png)
